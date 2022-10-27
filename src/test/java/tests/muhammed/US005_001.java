@@ -16,7 +16,6 @@ public class US005_001 extends TestBaseReport {
     Actions actions = new Actions(Driver.getDriver());
     JavascriptExecutor jse = (JavascriptExecutor) Driver.getDriver();
 
-
     @Test
     public void test1 () throws InterruptedException {
         extentTest=extentReports.createTest("urun listesi testi","urun listelerimi gormeliyim");
