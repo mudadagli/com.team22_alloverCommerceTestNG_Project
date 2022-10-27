@@ -1,4 +1,8 @@
 /.idea/
 /target/
-
 .idea/workspace.xml
+*.iml
+pom.xml
+
+
+
